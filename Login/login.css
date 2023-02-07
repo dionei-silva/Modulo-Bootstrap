@@ -1,0 +1,8 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  background-image: url(../assets/images/medician.jpg);
+  background-size: cover;
+  position: relative;
+  background-repeat: no-repeat;
+}
